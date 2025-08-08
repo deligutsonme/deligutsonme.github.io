@@ -1,0 +1,1 @@
+This website is an activism web to raise and spread awareness about the "equal access to reliable technology and internet" issue, this is a project created during my summer program with Girls Who Code
